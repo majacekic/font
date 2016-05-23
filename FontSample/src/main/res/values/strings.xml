@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Font Sample</string>
+
+    <string name="swipe">Swipe right/left to see more.</string>
+
+    <string name="font_thin">This is font thin.</string>
+    <string name="font_thin_italic">This is font thinItalic.</string>
+    <string name="font_light">This is font light.</string>
+    <string name="font_light_italic">This is font lightItalic.</string>
+    <string name="font_regular">This is font regular.</string>
+    <string name="font_italic">This is font italic.</string>
+    <string name="font_semi_bold">This is font semiBold.</string>
+    <string name="font_semi_bold_italic">This is font semiBoldItalic.</string>
+    <string name="font_bold">This is font bold.</string>
+    <string name="font_bold_italic">This is font boldItalic.</string>
+
+    <string name="font_mixed_1">This library is very easy to use.</string>
+
+    <string name="font_mixed_2_1">\nGo to \u0020</string>
+    <string name="font_mixed_2_2">www.google.com/fonts</string>
+    <string name="font_mixed_2_3">\u0020 and download desired font.</string>
+
+    <string name="font_mixed_3_1">\nCreate \u0020</string>
+    <string name="font_mixed_3_2">assets/fonts</string>
+    <string name="font_mixed_3_3">\u0020 in \u0020</string>
+    <string name="font_mixed_3_4">/main</string>
+    <string name="font_mixed_3_5">\u0020 folder of your project and add font.</string>
+
+    <string name="font_mixed_4">\nInclude the dependency of a library in build.gradle.</string>
+    <string name="font_mixed_5">\nSet font name (eg: JosefinSans) in your Application class in the #onCreate() method.</string>
+
+
+    <string name="font_from_style">This font is set form style (FontBoldItalic).</string>
+
+    <string name="toolbar">Note: Toolbar is set to be bold.</string>
+</resources>

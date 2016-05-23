@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:font="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_thin"
+        font:customFont="thin" />
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_thin_italic"
+        font:customFont="thinItalic" />
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_light"
+        font:customFont="light" />
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_light_italic"
+        font:customFont="lightItalic" />
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_regular"
+        font:customFont="regular" />
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_italic"
+        font:customFont="italic" />
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_semi_bold"
+        font:customFont="semiBold" />
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_semi_bold_italic"
+        font:customFont="semiBoldItalic" />
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_bold"
+        font:customFont="bold" />
+
+    <com.aling.font.widgets.FTextView
+        style="@style/FontTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_bold_italic"
+        font:customFont="boldItalic" />
+
+</LinearLayout>
